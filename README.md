@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0377-combination-sum-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0377-combination-sum-iv) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
