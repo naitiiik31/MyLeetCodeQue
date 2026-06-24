@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0377-combination-sum-iv) |
 ## String
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0279-perfect-squares) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
