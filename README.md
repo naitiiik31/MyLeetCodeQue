@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0377-combination-sum-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0377-combination-sum-iv) |
 | [0983-minimum-cost-for-tickets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0983-minimum-cost-for-tickets) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0377-combination-sum-iv) |
 | [0983-minimum-cost-for-tickets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0983-minimum-cost-for-tickets) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## String
 |  |
 | ------- |
