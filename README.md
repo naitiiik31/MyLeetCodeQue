@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0416-partition-equal-subset-sum) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1388-pizza-with-3n-slices](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1388-pizza-with-3n-slices) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0416-partition-equal-subset-sum) |
+| [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0983-minimum-cost-for-tickets) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1155-number-of-dice-rolls-with-target-sum) |
