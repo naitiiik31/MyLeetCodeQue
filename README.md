@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1027-longest-arithmetic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1143-longest-common-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-pizza-with-3n-slices](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1388-pizza-with-3n-slices) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0020-valid-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Trie
 |  |
