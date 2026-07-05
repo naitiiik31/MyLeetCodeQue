@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
 |  |
 | ------- |
@@ -149,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1388-pizza-with-3n-slices](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1388-pizza-with-3n-slices) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Tree
 |  |
 | ------- |
