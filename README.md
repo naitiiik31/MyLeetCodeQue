@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0416-partition-equal-subset-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [1027-longest-arithmetic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0354-russian-doll-envelopes) |
 | [1402-reducing-dishes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1402-reducing-dishes) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [1388-pizza-with-3n-slices](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1388-pizza-with-3n-slices) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Tree
@@ -177,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0044-wildcard-matching) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
