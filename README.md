@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
