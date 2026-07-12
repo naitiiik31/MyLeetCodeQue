@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0055-jump-game) |
+| [0090-subsets-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -221,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
