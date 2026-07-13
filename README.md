@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1291-sequential-digits) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 ## Backtracking
 |  |
