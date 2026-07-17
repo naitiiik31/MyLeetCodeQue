@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0322-coin-change) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
 | [1388-pizza-with-3n-slices](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1388-pizza-with-3n-slices) |
@@ -256,4 +258,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0090-subsets-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
