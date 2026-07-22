@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0239-sliding-window-maximum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0322-coin-change) |
 ## Divide and Conquer
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1260-shift-2d-grid) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -303,9 +306,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1260-shift-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
