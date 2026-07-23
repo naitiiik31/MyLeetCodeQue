@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
 | [1143-longest-common-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1143-longest-common-subsequence) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
 | [3889-mirror-frequency-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3889-mirror-frequency-distance) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1388-pizza-with-3n-slices](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1402-reducing-dishes) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1824-minimum-sideway-jumps](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
