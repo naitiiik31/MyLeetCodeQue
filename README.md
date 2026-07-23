@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2438-range-product-queries-of-powers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2438-range-product-queries-of-powers) |
+| [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3693-climbing-stairs-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3693-climbing-stairs-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1260-shift-2d-grid) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
 | [1388-pizza-with-3n-slices](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1388-pizza-with-3n-slices) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1260-shift-2d-grid) |
+| [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
 ## Union-Find
 |  |
 | ------- |
