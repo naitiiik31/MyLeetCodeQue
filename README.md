@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0820-short-encoding-of-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0820-short-encoding-of-words) |
 | [0983-minimum-cost-for-tickets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
+| [0820-short-encoding-of-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0820-short-encoding-of-words) |
 | [1027-longest-arithmetic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1027-longest-arithmetic-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
+| [0820-short-encoding-of-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0820-short-encoding-of-words) |
 | [1143-longest-common-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1143-longest-common-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
+| [0820-short-encoding-of-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0820-short-encoding-of-words) |
 ## Binary Search
 |  |
 | ------- |
