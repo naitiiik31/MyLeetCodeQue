@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3889-mirror-frequency-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3889-mirror-frequency-distance) |
 ## Trie
 |  |
