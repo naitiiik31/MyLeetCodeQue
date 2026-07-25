@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0820-short-encoding-of-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0820-short-encoding-of-words) |
+| [0931-minimum-falling-path-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
+| [0931-minimum-falling-path-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0221-maximal-square) |
+| [0931-minimum-falling-path-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1260-shift-2d-grid) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
