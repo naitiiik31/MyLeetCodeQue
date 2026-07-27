@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3889-mirror-frequency-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3889-mirror-frequency-distance) |
+| [3913-sort-vowels-by-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3913-sort-vowels-by-frequency) |
 ## Trie
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3889-mirror-frequency-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3889-mirror-frequency-distance) |
+| [3913-sort-vowels-by-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3913-sort-vowels-by-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
 | [3536-maximum-product-of-two-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3536-maximum-product-of-two-digits) |
+| [3913-sort-vowels-by-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
