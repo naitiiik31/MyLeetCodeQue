@@ -262,16 +262,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0099-recover-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0099-recover-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
 ## Game Theory
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0099-recover-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
 ## Simulation
