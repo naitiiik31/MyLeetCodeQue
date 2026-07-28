@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3693-climbing-stairs-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3693-climbing-stairs-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Sorting
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3536-maximum-product-of-two-digits) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3913-sort-vowels-by-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Tree
 |  |
 | ------- |
