@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3889-mirror-frequency-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3889-mirror-frequency-distance) |
 | [3913-sort-vowels-by-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3913-sort-vowels-by-frequency) |
 ## Trie
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3536-maximum-product-of-two-digits) |
 | [3913-sort-vowels-by-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0200-number-of-islands) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
