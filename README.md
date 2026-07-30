@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1260-shift-2d-grid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1260-shift-2d-grid) |
+| [1288-remove-covered-intervals](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1388-pizza-with-3n-slices](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1402-reducing-dishes) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1288-remove-covered-intervals](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1288-remove-covered-intervals) |
 | [1402-reducing-dishes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1691-maximum-height-by-stacking-cuboids) |
