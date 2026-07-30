@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-range-product-queries-of-powers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2438-range-product-queries-of-powers) |
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3208-alternating-groups-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3208-alternating-groups-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3693-climbing-stairs-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3693-climbing-stairs-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0424-longest-repeating-character-replacement) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [3208-alternating-groups-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3208-alternating-groups-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
