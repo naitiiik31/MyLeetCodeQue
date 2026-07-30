@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3889-mirror-frequency-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3889-mirror-frequency-distance) |
 | [3913-sort-vowels-by-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3913-sort-vowels-by-frequency) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3536-maximum-product-of-two-digits) |
 ## Breadth-First Search
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Sorting
 |  |
