@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1366-rank-teams-by-votes) |
 | [1388-pizza-with-3n-slices](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1824-minimum-sideway-jumps) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1388-pizza-with-3n-slices](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1406-stone-game-iii) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1824-minimum-sideway-jumps) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
