@@ -1,0 +1,21 @@
+class Solution {
+    public long gcd(int a,int b){
+        while(b!=0){
+            int temp=b;
+            b=a%b;
+            a=temp;
+        }
+        return a;
+    }
+    public long maxPairStrength(int[] nums) {
+        long ans=Long.MIN_VALUE;
+        for(int i=0;i<nums.length;i++){
+            for(int j=i+1;j<nums.length;j++){
+                long g=gcd(nums[i],nums[j]);
+                long k=(1L*nums[i]*nums[j])/(g*g);
+                ans=Math.max(ans,k);
+            }
+        }
+        return ans;
+    }
+}
