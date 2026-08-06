@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0377-combination-sum-iv) |
+| [0384-shuffle-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0628-maximum-product-of-three-numbers) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0384-shuffle-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0384-shuffle-an-array) |
 | [0486-predict-the-winner](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0877-stone-game) |
@@ -423,4 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
