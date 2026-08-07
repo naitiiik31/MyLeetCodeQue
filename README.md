@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
+| [2178-maximum-split-of-positive-even-integers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2178-maximum-split-of-positive-even-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
