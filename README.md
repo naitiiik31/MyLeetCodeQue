@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-range-product-queries-of-powers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2438-range-product-queries-of-powers) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3208-alternating-groups-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3208-alternating-groups-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1366-rank-teams-by-votes) |
 | [2284-sender-with-largest-word-count](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2295-replace-elements-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3731-find-missing-elements) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0424-longest-repeating-character-replacement) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1208-get-equal-substrings-within-budget) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3208-alternating-groups-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3208-alternating-groups-ii) |
 ## Monotonic Queue
 |  |
