@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1563-stone-game-v) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1563-stone-game-v) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1824-minimum-sideway-jumps](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1824-minimum-sideway-jumps) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
 | ------- |
