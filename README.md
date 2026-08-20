@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3208-alternating-groups-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3208-alternating-groups-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1260-shift-2d-grid) |
 | [2295-replace-elements-in-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2295-replace-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Union-Find
 |  |
 | ------- |
