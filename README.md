@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3021-alice-and-bob-playing-flower-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Breadth-First Search
 |  |
 | ------- |
