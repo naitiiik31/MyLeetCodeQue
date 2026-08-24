@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0486-predict-the-winner) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
