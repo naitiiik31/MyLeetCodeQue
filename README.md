@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2140-solving-questions-with-brainpower) |
 | [2284-sender-with-largest-word-count](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2295-replace-elements-in-an-array) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-minimum-sideway-jumps](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1824-minimum-sideway-jumps) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2027-minimum-moves-to-convert-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2027-minimum-moves-to-convert-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
