@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
