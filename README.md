@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0424-longest-repeating-character-replacement) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0167-two-sum-ii-input-array-is-sorted) |
