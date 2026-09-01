@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0384-shuffle-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
 | [0820-short-encoding-of-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0820-short-encoding-of-words) |
 | [1027-longest-arithmetic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1027-longest-arithmetic-subsequence) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1140-stone-game-ii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1208-get-equal-substrings-within-budget) |
 | [2438-range-product-queries-of-powers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2438-range-product-queries-of-powers) |
