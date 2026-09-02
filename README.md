@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3767-maximize-points-after-choosing-k-tasks) |
+| [3875-construct-uniform-parity-array-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3875-construct-uniform-parity-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
