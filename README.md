@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0120-triangle) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0354-russian-doll-envelopes) |
@@ -553,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0142-linked-list-cycle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
