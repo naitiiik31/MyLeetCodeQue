@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0449-serialize-and-deserialize-bst) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0449-serialize-and-deserialize-bst) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Game Theory
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0449-serialize-and-deserialize-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Simulation
 |  |
 | ------- |
