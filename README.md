@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3208-alternating-groups-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3208-alternating-groups-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3483-unique-3-digit-even-numbers) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3693-climbing-stairs-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3731-find-missing-elements) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1291-sequential-digits) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
