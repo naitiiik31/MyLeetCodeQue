@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0820-short-encoding-of-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0820-short-encoding-of-words) |
+| [0835-image-overlap](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0931-minimum-falling-path-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0221-maximal-square) |
+| [0835-image-overlap](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1289-minimum-falling-path-sum-ii) |
