@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0384-shuffle-an-array) |
 | [0486-predict-the-winner](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1406-stone-game-iii) |
@@ -569,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0056-merge-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
