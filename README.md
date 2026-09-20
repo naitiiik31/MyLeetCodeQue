@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3889-mirror-frequency-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3889-mirror-frequency-distance) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2295-replace-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
