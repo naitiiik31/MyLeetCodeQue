@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
 | [0820-short-encoding-of-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0820-short-encoding-of-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1208-get-equal-substrings-within-budget) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0032-longest-valid-parentheses) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
