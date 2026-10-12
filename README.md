@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0055-jump-game) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0125-valid-palindrome) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0032-longest-valid-parentheses) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
