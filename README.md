@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0242-valid-anagram) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0071-simplify-path) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
