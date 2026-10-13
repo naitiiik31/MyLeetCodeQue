@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3693-climbing-stairs-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Sorting
 |  |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3731-find-missing-elements) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3913-sort-vowels-by-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3913-sort-vowels-by-frequency) |
