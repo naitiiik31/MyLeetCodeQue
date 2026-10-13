@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0279-perfect-squares) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0384-shuffle-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0384-shuffle-an-array) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Depth-First Search
 |  |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1260-shift-2d-grid) |
 | [2295-replace-elements-in-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2295-replace-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
