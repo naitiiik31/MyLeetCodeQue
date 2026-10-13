@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0516-longest-palindromic-subsequence) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1366-rank-teams-by-votes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1366-rank-teams-by-votes) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
