@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
 | [0692-top-k-frequent-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0692-top-k-frequent-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0739-daily-temperatures) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0820-short-encoding-of-words](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0820-short-encoding-of-words) |
 | [0835-image-overlap](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0835-image-overlap) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0071-simplify-path) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0739-daily-temperatures) |
 ## Number Theory
 |  |
 | ------- |
