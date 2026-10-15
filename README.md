@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-range-product-queries-of-powers](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2438-range-product-queries-of-powers) |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2679-sum-in-a-matrix](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2679-sum-in-a-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1366-rank-teams-by-votes) |
 | [2284-sender-with-largest-word-count](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2284-sender-with-largest-word-count) |
 | [2295-replace-elements-in-an-array](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2295-replace-elements-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -622,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
