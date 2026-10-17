@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0516-longest-palindromic-subsequence) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0402-remove-k-digits) |
 | [0654-maximum-binary-tree](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0739-daily-temperatures) |
 ## Number Theory
