@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0185-department-top-three-salaries) |
+| [0595-big-countries](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/0595-big-countries) |
 | [1045-customers-who-bought-all-products](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1045-customers-who-bought-all-products) |
 | [1757-recyclable-and-low-fat-products](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1890-the-latest-login-in-2020) |
