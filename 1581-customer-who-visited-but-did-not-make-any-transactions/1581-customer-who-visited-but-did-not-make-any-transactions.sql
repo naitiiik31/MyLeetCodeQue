@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select v.customer_id,COUNT(*)-COUNT(t.transaction_id) as count_no_trans from Visits v left join Transactions t on v.visit_id=t.visit_id group by v.customer_id having COUNT(*)-COUNT(t.transaction_id)>0;
