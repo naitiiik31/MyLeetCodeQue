@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1890-the-latest-login-in-2020) |
+| [1934-confirmation-rate](https://github.com/naitiiik31/MyLeetCodeQue/tree/master/1934-confirmation-rate) |
 ## Minimax
 |  |
 | ------- |
