@@ -1,2 +1,4 @@
 # Write your MySQL query statement below
-Select customer_id from customer group by customer_id having count(distinct product_key)=(select count(product_key) from product)
+select c.customer_id from customer c  group by c.customer_id having COUNT(DISTINCT c.product_key)= (
+    SELECT COUNT(DISTINCT product_key) FROM product
+);
