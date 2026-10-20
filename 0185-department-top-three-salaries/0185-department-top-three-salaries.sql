@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# Write your MySQL query statement below
 select department,employee,salary from(
     select d.name as department,e.name as Employee,e.salary,DENSE_RANK() 
     over(
